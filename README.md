@@ -39,6 +39,6 @@ In this small lab, I decided to build a portal for creating annotation in a smal
 
 
 ### 🤔 Some lab considerations
-My main goal with this project/lab was to start from scratch with these tools and start using Docker / Kubernetes / Terraform / GitHub Actions (CI/CD). I'm starting my studies to work as a DevOps, I believe there are more efficient and safer ways to do this process, but keep in mind that it was done by a student with a lot of desire to learn and do 😜
+My main goal with this project/lab was to start from scratch with these tools and start using Docker / Kubernetes / Terraform / GitHub Actions (CI/CD). I'm starting my studies to work as a DevOps, I believe there are more efficient and safer ways to do this process, but keep in mind that it was done by a student with a lot of desire to learn and do.
 
 ---
