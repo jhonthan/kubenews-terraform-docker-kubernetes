@@ -1,7 +1,7 @@
 # kube-news
 
 ## 💡 Idea
-In this small lab, I decided to build a portal for creating annotation in a small project based on node and running in a Docker and in the cluster in Kubernetes. To create the automation of the infrastructure I used the Terraform and after the automation of the creation of the replicas I used GitHub Action, and the cluster is running in the Digital Ocean provider.
+In this small lab, I decided to build a portal for creating annotation in a small project based on node and running in a Docker and in the cluster in Kubernetes. To create the automation of the infrastructure I used the Terraform and after the automation of the creation of the replicas I used GitHub Action, and the cluster is running in the Digital Ocean provider and monitoring and observability with Prometheus + Grafana 📊.
 
 ---
 
